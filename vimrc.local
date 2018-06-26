@@ -1,0 +1,5 @@
+colorscheme gruvbox
+
+let g:syntastic_python_checkers = ['<syntastic-checkers-python>']
+
+let g:syntastic_python_checkers = ['pylint']
